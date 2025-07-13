@@ -1,4 +1,4 @@
-# 🌍 TeacherHub – A Global Community for Educators
+# 🌍 TeacherSanity – A Global Community for Educators
 
 Welcome to **TeacherHub**, an online platform built *by teachers, for teachers* — a safe and private space to share resources, personal stories, tips, and frustrations in a supportive global community.
 
